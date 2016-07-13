@@ -1,0 +1,13 @@
+
+
+Create at least 5 variables.
+  - at least 2 of which are Numbers
+  - at least 1 of which contains a decimal
+  - at least 2 of which are strings
+
+Do 4 math operations on the numbers.
+Prove to yourself that decimal numbers aren't special
+compared to integer numbers(i.e. you can add them together
+without doing anything special)
+
+Do this excercise in both the node REPL and in a .js file
